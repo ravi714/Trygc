@@ -12,7 +12,7 @@
     },
     "autosave": true,
     "background": false,
-    "colors": false,
+    "colors": true,
     "title": true,
     "randomx": {
         "init": -1,
@@ -80,7 +80,7 @@
         "cn/0": false
     },
     "cuda": {
-        "enabled": false,
+        "enabled": true,
         "loader": null,
         "nvml": true,
         "cn-lite/0": false,
